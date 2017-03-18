@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\PC\Desktop\TP_CG\engine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\tinyxml.cpp" />
+    <ClCompile Include="..\tinyxmlparser.cpp" />
+    <ClCompile Include="..\tinystr.cpp" />
+    <ClCompile Include="..\tinyxmlerror.cpp" />
+    <ClCompile Include="..\Ponto.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\PC\Desktop\TP_CG\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{87E40ED7-DDC8-387D-A3CD-927C77B3D383}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
